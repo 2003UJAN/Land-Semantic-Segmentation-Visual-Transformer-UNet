@@ -1,1 +1,1 @@
-# Land-Semantic-Segmentatio
+# Land-Semantic-Segmentation
