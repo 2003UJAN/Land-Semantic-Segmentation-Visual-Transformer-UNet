@@ -1,1 +1,1 @@
-# Semanti
+# Semantic
