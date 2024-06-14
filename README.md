@@ -1,1 +1,1 @@
-# Land-Semantic-Segmentation-Vi
+# Land-Semantic-Segmentation-Vis
