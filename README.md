@@ -1,1 +1,1 @@
-# Land-Semantic-Segmentation-Visua
+# Land-Semantic-Segmentation-Visual
