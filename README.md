@@ -1,1 +1,1 @@
-# Land-Semantic-Seg
+# Land-Semantic-Segm
