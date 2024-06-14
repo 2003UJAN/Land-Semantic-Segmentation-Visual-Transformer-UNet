@@ -1,1 +1,1 @@
-# Land-Semantic-Segmentation-Visual-Transforme
+# Land-Semantic-Segmentation-Visual-Transformer
